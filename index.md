@@ -77,4 +77,4 @@ We may update this policy from time to time. Updates will be reflected by revisi
 
 ## 11. Contact
 
-If you have privacy questions, contact: **support@oakroad.app**
+If you have privacy questions, contact: **carapace@sellers.life**
